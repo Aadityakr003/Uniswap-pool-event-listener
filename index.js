@@ -1,7 +1,6 @@
 const { ethers } = require('ethers');
 require('dotenv').config();
 
-// const provider = new ethers.JsonRpcProvider('https://mainnet.infura.io/v3/9a90988b9f5542a8ac3d180d1c915fbc');
 const provider = new ethers.WebSocketProvider(process.env.INFURA_WSS);
 
 const poolAddress = '0x88e6A0c2dDD26FEEb64F039a2c41296FcB3f5640';
