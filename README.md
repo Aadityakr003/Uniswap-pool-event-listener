@@ -6,9 +6,9 @@
 
 #### Step 1: Clone the repository (or create a new project)
 
-git clone https://github.com/yourusername/uniswap-pool-event-listener.git
+git clone https://github.com/Aadityakr003/Uniswap-pool-event-listener.git
 
-cd uniswap-pool-event-listener>
+cd uniswap-pool-event-listener
 
 #### Step 2: Install dependencies
 
